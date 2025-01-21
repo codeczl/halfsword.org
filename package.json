@@ -1,8 +1,8 @@
 {
-  "name": "robloxcode",
+  "name": "halfsword",
   "version": "1.0.0",
   "private": true,
-  "description": "Your ultimate guide for Roblox codes, promo codes and redeem tips",
+  "description": "Your ultimate guide for Half Sword game, medieval combat simulation and historical martial arts",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

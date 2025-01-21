@@ -32,17 +32,17 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Roblox Code | Latest Promo Codes & Redeem Guide',
-    template: '%s | Roblox Code'
+    default: 'Half Sword | Medieval Combat Simulation Game Guide',
+    template: '%s | Half Sword'
   },
-  description: 'Find and redeem the latest Roblox promo codes. Get free items, accessories, and in-game bonuses. Updated daily with working codes and step-by-step redemption guides.',
-  authors: { name: 'robloxcode.net', url: 'https://robloxcode.net/' },
-  keywords: 'Roblox code, redeem Roblox codes, Roblox promo codes, Roblox game codes, free Roblox items',
+  description: 'Dive into the world of Half Sword, a medieval combat simulation game with rich history, weaponry, and unique gameplay. Get latest guides, news and updates.',
+  authors: { name: 'halfsword.org', url: 'https://halfsword.org/' },
+  keywords: 'Half Sword, medieval combat, HEMA, sword fighting, combat simulation, medieval weapons, historical martial arts',
   alternates: {
-    canonical: "https://robloxcode.net/",
+    canonical: "https://halfsword.org/",
     languages: {
-      "en": "https://robloxcode.net/en",
-      "zh": "https://robloxcode.net/zh",
+      "en": "https://halfsword.org/en",
+      "zh": "https://halfsword.org/zh",
     }
   },
   icons: [
@@ -57,13 +57,13 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Roblox Code"
+    title: "Half Sword"
   },
   ...generateMetaTags({
-    title: 'Roblox Code | Latest Promo Codes & Redeem Guide',
-    description: 'Find and redeem the latest Roblox promo codes. Get free items, accessories, and in-game bonuses. Updated daily with working codes and step-by-step redemption guides.',
-    url: 'https://robloxcode.net',
-    imageUrl: 'https://robloxcode.net/og-image.jpg'
+    title: 'Half Sword | Medieval Combat Simulation Game Guide',
+    description: 'Dive into the world of Half Sword, a medieval combat simulation game with rich history, weaponry, and unique gameplay. Get latest guides, news and updates.',
+    url: 'https://halfsword.org',
+    imageUrl: 'https://halfsword.org/og-image.jpg'
   }),
 }
 

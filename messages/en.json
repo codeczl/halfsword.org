@@ -1,63 +1,70 @@
 {
   "home": {
-    "meta_title": "Roblox Code | Latest Promo Codes & Redeem Guide",
-    "meta_description": "Discover the latest Roblox codes, how to redeem them, and tips for using them effectively to maximize your gaming experience.",
-    "h1": "Roblox Code",
-    "h2": "Latest Roblox Codes--Your Ultimate Guide to Promo Codes",
-    "intro": "Roblox players love finding new ways to enhance their gaming experience, and Roblox codes are the perfect tool for this. Below is a list of the latest promo codes you can use:",
-    "latest_codes": { 
-      "title": "Latest Roblox Codes",
-      "code1": "SPIDERCOLA: Redeem for a Spider Cola shoulder accessory.",
-      "code2": "TWEETROBLOX: Redeem for a free bird shoulder pet.",
-      "update_note": "Stay updated with the latest Roblox codes by bookmarking this page!"
+    "meta_title": "Half Sword | Medieval Combat Simulation Game Guide",
+    "meta_description": "Dive into the world of Half Sword, a medieval combat simulation game with rich history, weaponry, and unique gameplay.",
+    "h1": "Half Sword Game Guide and News",
+    "h2": "Your Ultimate Guide to Medieval Combat Simulation",
+    "intro": "Welcome to the world of Half Sword! This immersive medieval combat simulation game is based on historical accuracy, where players start as commoners and progress to become knights, experiencing brutal duels of the 15th-century Europe.",
+    
+    "features": {
+      "title": "Game Features",
+      "weapons": "Realistic Weapons and Armor: The game offers historically accurate weapons and armor, allowing players to dive deep into a rich medieval world and experience diverse, distinctive equipment.",
+      "combat": "Innovative Combat Mechanics: Players control their weapons precisely through mouse movements, feeling the tension of every collision. All animations and actions are meticulously designed for realistic combat.",
+      "hema": "HEMA-based Combat System: The combat system is based on feedback from European Historical Martial Arts (HEMA) practitioners and swordfighters, enabling players to experience the intricacies of swordsmanship."
     },
-    "how_to_redeem": {
-      "title": "How to Redeem Roblox Codes",
-      "intro": "Redeeming a Roblox code is simple. Follow these steps:",
-      "step1": "Log in to your Roblox account.",
-      "step2": "Go to the Redeem Codes page.",
-      "step3": "Enter the Roblox code in the box and click \"Redeem.\"",
-      "step4": "Enjoy your reward in the game!",
-      "note": "If the code doesn't work, double-check for typos or expired dates."
+    
+    "gameplay": {
+      "title": "Gameplay",
+      "description": "In Half Sword, players participate in various duels and tournaments, defeating opponents and earning the title of arena champion. As your rank increases, you'll face more formidable enemies and improve your battle tactics and strategies."
     },
+    
     "tips": {
-      "title": "Tips for Using Roblox Codes Effectively",
-      "intro": "To make the most of your Roblox codes:",
-      "tip1": "Check for new codes regularly as they can expire quickly.",
-      "tip2": "Follow Roblox's official social media accounts for exclusive codes.",
-      "tip3": "Use codes during special events to unlock limited-time items.",
-      "conclusion": "With these tips, you'll always be ready to maximize your rewards!"
+      "title": "Tips and Strategy",
+      "weapon": "Master Weapon Control: Use mouse movements to control the sword, mastering different weapons' characteristics to find the fighting style that suits you best.",
+      "armor": "Utilize Armor Advantages: With a variety of armor types available, choosing the right one based on battle needs will greatly enhance your survivability.",
+      "strategy": "Strategic Attacks and Defense: Observe your enemy's movements and strike at the right time while also defending to avoid critical damage."
+    },
+    
+    "news": {
+      "title": "Latest News",
+      "demo": "Half Sword is currently available as a demo on Steam and is scheduled for full release in 2025. Visit the Steam store page for more details and add it to your wish list for notifications upon release."
+    },
+    
+    "community": {
+      "title": "Community",
+      "description": "Join the official Discord community to connect with other players, share experiences, and stay updated on the latest game news and updates.",
+      "conclusion": "With this guide, you can dive deeper into Half Sword and gain an edge in your medieval combat adventures!"
     }
   },
   "category": {
-    "meta_title": "Roblox Code Categories",
-    "meta_description": "Find all essential Roblox code categories and guides to enhance your gaming experience",
+    "meta_title": "Half Sword Game Categories",
+    "meta_description": "Find all essential Half Sword game categories and guides to enhance your gaming experience",
     "homeBtn": "Home",
     "categoryBtn": "Category",
-    "h1": "Roblox Code Categories",
-    "h2": "Find All Roblox Codes You Need Here",
-    "h2description": "All Roblox codes are sorted by categories"
+    "h1": "Half Sword Game Categories",
+    "h2": "Find All Half Sword Game Guides You Need Here",
+    "h2description": "All Half Sword game guides are sorted by categories"
   },
   "article": {
-    "meta_title": "Articles - Roblox Code",
-    "meta_description": "Explore our collection of articles about Roblox codes and promo codes",
+    "meta_title": "Articles - Half Sword Game",
+    "meta_description": "Explore our collection of articles about Half Sword medieval combat simulation game",
     "h1": "Articles",
-    "h2": "Discover useful Roblox code guides and resources",
+    "h2": "Discover useful Half Sword game guides and resources",
     "homeBtn": "Home",
     "articleBtn": "Articles",
     "backToArticles": "Back to Articles"
   },
   "changelog": {
-    "meta_title": "Changelog - Roblox Code",
-    "meta_description": "Stay up to date with the latest updates on RobloxCode.net",
+    "meta_title": "Changelog - Half Sword Game",
+    "meta_description": "Stay up to date with the latest updates on Half Sword game",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest updates on RobloxCode.net",
+    "h2": "Stay up to date with the latest updates on Half Sword game",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
   "tools": {
-    "meta_description": "Find all essential Roblox codes and guides to enhance your gaming experience",
-    "h2_1": "All Roblox codes related to",
+    "meta_description": "Find all essential Half Sword game guides and resources to enhance your gaming experience",
+    "h2_1": "All Half Sword game guides related to",
     "h2_2": "",
     "homeBtn": "Home"
   },
@@ -74,17 +81,17 @@
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Categories",
     "articleBtn": "Articles",
-    "articleDescription": "Your Ultimate Guide for Roblox Codes and Promo Codes",
-    "latestCodesArticle": "Latest Roblox Codes 2025",
-    "latestCodesDescription": "Get the latest Roblox promo codes and learn how to redeem them",
-    "secretsArticle": "Are Roblox Codes Really Useful?",
-    "secretsDescription": "Explore the true value of Roblox codes, uncovering how these promo codes impact player experiences",
+    "articleDescription": "Your Ultimate Guide for Half Sword Medieval Combat Game",
+    "latestArticle": "Half Sword: An Immersive Medieval Combat Simulation",
+    "latestDescription": "Dive into the world of Half Sword, experiencing authentic medieval combat and swordplay",
+    "reviewArticle": "Half Sword Game Review: Combat Experience",
+    "reviewDescription": "An in-depth review of Half Sword's core features, physics engine, and gameplay experience",
     "moreArticleBtn": "More Articles",
-    "moreArticleDescription": "Browse all articles about Roblox codes",
+    "moreArticleDescription": "Browse all articles about Half Sword",
     "changelogBtn": "Changelog"
   },
   "footer": {
-    "description": "Your Ultimate Guide for Roblox Codes and Promo Codes",
+    "description": "Your Ultimate Guide for Half Sword Medieval Combat Game",
     "quickLinks": "Quick Links",
     "home": "Home",
     "category": "Categories",

@@ -1,118 +1,125 @@
 [
   {
-    "id": "latest-roblox-codes-2025",
+    "id": "half-sword-introduction",
     "translations": {
       "zh": {
-        "title": "最新Roblox代码大全：如何兑换2025年热门代码",
-        "description": "本文提供了2025年最新的Roblox兑换代码，教你如何快速兑换这些热门代码，提升游戏体验！",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/latest-roblox-codes-2025.md"
+        "title": "Half Sword：沉浸式中世纪战斗模拟游戏介绍",
+        "description": "《Half Sword》是一款沉浸式中世纪战斗模拟游戏，让玩家在15世纪的背景下体验真实的剑术技巧与战斗策略。",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/zh/half-sword-introduction.md"
       },
       "en": {
-        "title": "Latest Roblox Code List: How to Redeem Popular Codes for 2025",
-        "description": "This article provides the latest Roblox redemption codes for 2025, showing you how to quickly redeem these popular codes and enhance your gaming experience!",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/latest-roblox-codes-2025.md"
+        "title": "Half Sword: An Immersive Medieval Combat Simulation Game Introduction",
+        "description": "Half Sword is an immersive medieval combat simulation game where players experience authentic swordplay and combat strategies in a 15th-century setting.",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/en/half-sword-introduction.md"
       }
     }
   },
   {
-    "id": "roblox-codes-usefulness-secrets",
+    "id": "half-sword-game-review",
     "translations": {
       "zh": {
-        "title": "Roblox代码是否真的有用？揭秘兑换码背后的秘密",
-        "description": "探索Roblox代码的真正价值，揭秘这些兑换码如何影响玩家体验及其背后的游戏经济。",
-        "date": "2025-01-08T00:00:00.000Z",
-        "lastModified": "2025-01-08T00:00:00Z",
-        "path": "data/md/zh/roblox-codes-usefulness-secrets.md"
+        "title": "Half Sword游戏评测：中世纪战斗的真实再现",
+        "description": "深度评测《Half Sword》的核心特色、物理引擎和游戏体验，探索这款中世纪战斗模拟游戏的真实与乐趣。",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/zh/half-sword-game-review.md"
       },
       "en": {
-        "title": "Are Roblox Codes Really Useful? Unveiling the Secrets Behind Promo Codes",
-        "description": "Explore the true value of Roblox codes, uncovering how these promo codes impact player experiences and the game economy behind them.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/roblox-codes-usefulness-secrets.md"
+        "title": "Half Sword Game Review: A True-to-Life Medieval Combat Experience",
+        "description": "An in-depth review of Half Sword's core features, physics engine, and gameplay experience, exploring the authenticity and enjoyment of this medieval combat simulation game.",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/en/half-sword-game-review.md"
       }
     }
   },
   {
-    "id": "how-to-redeem-roblox-codes-all-channels-revealed",
+    "id": "half-sword-game-guide",
     "translations": {
       "zh": {
-        "title": "如何获取Roblox代码？全方位渠道揭秘",
-        "description": "本文为您详细介绍了如何获取Roblox代码，包括通过官方、社交媒体等多种渠道快速获取和兑换热门代码的方法。",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/how-to-redeem-roblox-codes-all-channels-revealed.md"
+        "title": "Half Sword游戏攻略：新手指南与高级技巧",
+        "description": "全面解析《Half Sword》的基础操作、战斗策略和高级技巧，助您从新手成长为中世纪战斗大师。",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/zh/half-sword-game-guide.md"
       },
       "en": {
-        "title": "How to Get Roblox Codes? Comprehensive Channel Reveals",
-        "description": "This article provides a comprehensive guide on how to get Roblox codes, covering official and social media channels for quick access and redemption of popular codes.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/how-to-redeem-roblox-codes-all-channels-revealed.md"
+        "title": "Half Sword Game Guide: Beginner's Handbook and Advanced Techniques",
+        "description": "A comprehensive analysis of Half Sword's basic operations, combat strategies, and advanced techniques to help you evolve from a novice to a medieval combat master.",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/en/half-sword-game-guide.md"
       }
     }
   },
   {
-    "id": "roblox-code-redemption-faq",
+    "id": "half-sword-developer-interview",
     "translations": {
       "zh": {
-        "title": "Roblox代码兑换常见问题解答（FAQ）",
-        "description": "本文为您提供了关于Roblox代码兑换的常见问题解答，帮助您解决在兑换过程中遇到的各种问题。",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/roblox-code-redemption-faq.md"
+        "title": "Half Sword开发者专访：幕后故事与未来计划",
+        "description": "深入采访《Half Sword》开发团队，揭示游戏开发背后的故事，并探讨未来的更新与发展方向。",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/zh/half-sword-developer-interview.md"
       },
       "en": {
-        "title": "Roblox Code Redemption FAQ",
-        "description": "This article provides answers to the most frequently asked questions about Roblox code redemption, helping you resolve any issues you may encounter during the process.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/roblox-code-redemption-faq.md"
+        "title": "Half Sword Developer Interview: Behind the Scenes and Future Plans",
+        "description": "An in-depth interview with the Half Sword development team, uncovering the stories behind the game's creation and discussing future updates and development directions.",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/en/half-sword-developer-interview.md"
       }
     }
   },
   {
-    "id": "future-of-roblox-codes-2025",
+    "id": "half-sword-community-events",
     "translations": {
       "zh": {
-        "title": "Roblox代码的未来：什么样的代码会在2025年崭露头角？",
-        "description": "本文展望了2025年Roblox代码的未来趋势，包括AR/VR、AI集成、教育用途等领域可能崭露头角的代码类型。",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/future-of-roblox-codes-2025.md"
+        "title": "Half Sword游戏社区：玩家分享与赛事活动",
+        "description": "探索《Half Sword》游戏社区的玩家互动、分享内容以及各类赛事活动，了解如何参与并提升游戏体验。",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/zh/half-sword-community-events.md"
       },
       "en": {
-        "title": "The Future of Roblox Codes: What Types Will Emerge in 2025?",
-        "description": "This article explores the future trends of Roblox codes in 2025, including AR/VR integration, AI-driven features, and educational applications.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/future-of-roblox-codes-2025.md"
+        "title": "Half Sword Game Community: Player Sharing and Events",
+        "description": "Explore the player interactions, shared content, and various events within the Half Sword game community, and learn how to participate and enhance your gaming experience.",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/en/half-sword-community-events.md"
       }
     }
   },
   {
-    "id": "how-to-enhance-roblox-experience-with-codes",
+    "id": "half-sword-historical-accuracy",
     "translations": {
       "zh": {
-        "title": "如何利用Roblox代码提升你的游戏体验？",
-        "description": "本文介绍了如何通过使用Roblox代码来优化和提升您的游戏体验，包括性能优化、功能扩展和个性化设置等方面的技巧。",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/how-to-enhance-roblox-experience-with-codes.md"
+        "title": "Half Sword与中世纪历史：游戏中的真实与虚构",
+        "description": "探讨《Half Sword》如何再现15世纪的武器、盔甲和战斗风格，以及在游戏设计中对历史真实性与娱乐性的平衡。",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/zh/half-sword-historical-accuracy.md"
       },
       "en": {
-        "title": "How to Enhance Your Roblox Experience with Codes?",
-        "description": "This article explores how to optimize and enhance your Roblox gaming experience by utilizing codes, including tips on performance optimization, feature expansion, and personalization.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/how-to-enhance-roblox-experience-with-codes.md"
+        "title": "Half Sword and Medieval History: Reality and Fiction in the Game",
+        "description": "Exploring how 'Half Sword' recreates 15th-century weapons, armor, and combat styles, and the balance between historical accuracy and entertainment in game design.",
+        "date": "2025-01-21T00:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00Z",
+        "path": "data/md/en/half-sword-historical-accuracy.md"
       }
     }
   }
+  
+  
+  
+  
+  
+
+  
   
   
   

@@ -1,8 +1,6 @@
 // components/Footer.js
 import { Link } from "@/lib/i18n";
-import React from 'react'; // 确保导入 React
-import Image from "next/image";
-import IconImage from "../../public/favicon.svg";
+import React from 'react';
 import {useTranslations} from 'next-intl';
 
 export function Footer() {
@@ -15,7 +13,7 @@ export function Footer() {
           <div className='flex flex-col justify-center items-center lg:items-start lg:justify-start'>
             <h3 className="text-sm font-bold tracking-normal">
               <Link href="/" className="flex items-center space-x-2">
-                <span className="inline-block font-bold">Roblox Code</span>
+                <span className="inline-block font-bold">Half Sword</span>
               </Link>
             </h3>
             <p className="mt-4 text-xs">
@@ -66,7 +64,7 @@ export function Footer() {
             <h3 className="text-sm font-semibold tracking-wider uppercase">{t('connect')}</h3>
             <ul className="mt-4 space-y-4">
               <li>
-                <Link href="mailto:czhenglong451@gmail.com" className="text-base">
+                <Link href="mailto:support@halfsword.org" className="text-base">
                   {t('support')}
                 </Link>
               </li>
@@ -75,7 +73,7 @@ export function Footer() {
         </div>
         <div className="mt-8 border-t pt-8">
           <p className="text-base text-center">
-            &copy; {new Date().getFullYear()} RobloxCode.net. {t('copyright')}
+            &copy; {new Date().getFullYear()} halfsword.org. {t('copyright')}
           </p>
         </div>
       </div>
